@@ -4,3 +4,5 @@ seaborn==0.7.1
 Shapely==1.6.1
 geopy==1.11.0
 GPy==1.8.4
+python-igraph==0.7.1.post6
+cairocffi
